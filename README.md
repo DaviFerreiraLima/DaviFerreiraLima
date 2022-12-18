@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭TI integrado ao E.M no IFPE<br>👯 Estudo e programo em PHP(Laravel) <br>🤝 Back-END<br>🌱 Sempre estudando<br>💬 Back-END<br>⚡ Procurando novos desafios
-
+👨‍🎓 IT at IFPE<br>👨‍💻 Programming with a focus on PHP and JS <br>🖥️ Back-END<br>🌱👨‍ Sowing my future <br>💬 Back-END<br>⚡ Looking for new challenges 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daviferreiralima) 
