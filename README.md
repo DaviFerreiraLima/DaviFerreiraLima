@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 IT at IFPE<br>👨‍💻 Programming with a focus on PHP and JS <br>🖥️ Back-END<br>🌱 Sowing my future <br>⚡ Looking for new challenges 
+👨‍🎓 IT at IFPE<br>👨‍💻 Programming with a focus on JAVA with SpringBoot<br>🖥️ Back-END<br>🌱 Sowing my future <br>⚡ Looking for new challenges 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daviferreiralima) 
